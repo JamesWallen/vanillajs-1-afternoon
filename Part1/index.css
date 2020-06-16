@@ -34,3 +34,17 @@
     text-align: center;
     font-size: 2em;
 }
+
+.player {
+    margin-left: 10vw;
+}
+
+main span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#restart {
+    float: right;
+    margin-right: 15vw;
+}
